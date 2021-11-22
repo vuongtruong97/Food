@@ -50,6 +50,7 @@ hr {
 }
 .text-gradient {
   background: -webkit-linear-gradient(rgb(0, 0, 0), rgb(255, 0, 0));
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
